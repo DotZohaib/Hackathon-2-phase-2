@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlmodel
+pg8000
+python-multipart
+python-dotenv
+bcrypt
+passlib[bcrypt]
+pydantic
+pydantic-settings
+email-validator
